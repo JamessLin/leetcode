@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/JamessLin/leetcode/tree/master/0463-island-perimeter) |
+| [3194-find-words-containing-character](https://github.com/JamessLin/leetcode/tree/master/3194-find-words-containing-character) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/JamessLin/leetcode/tree/master/0463-island-perimeter) |
+## String
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/JamessLin/leetcode/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
