@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JamessLin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/JamessLin/leetcode/tree/master/0463-island-perimeter) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/JamessLin/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3194-find-words-containing-character](https://github.com/JamessLin/leetcode/tree/master/3194-find-words-containing-character) |
 ## Depth-First Search
 |  |
