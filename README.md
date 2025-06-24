@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/JamessLin/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/JamessLin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/JamessLin/leetcode/tree/master/0463-island-perimeter) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/JamessLin/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/JamessLin/leetcode/tree/master/0292-nim-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/JamessLin/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
