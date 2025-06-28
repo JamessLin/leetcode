@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JamessLin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/JamessLin/leetcode/tree/master/0463-island-perimeter) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/JamessLin/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JamessLin/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3194-find-words-containing-character](https://github.com/JamessLin/leetcode/tree/master/3194-find-words-containing-character) |
 ## Depth-First Search
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JamessLin/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JamessLin/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JamessLin/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JamessLin/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JamessLin/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JamessLin/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Bucket Sort
 |  |
 | ------- |
